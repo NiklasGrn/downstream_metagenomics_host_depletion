@@ -1,0 +1,11 @@
+tax_id	abundance	superkingdom	phylum	class	order	family	genus	species	estimated counts
+1351	0.1596558893329932	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus faecalis	66040.22171958865
+1280	0.28868261260587247	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus aureus	119410.96456090569
+1639	0.18152342458170811	Bacteria	Firmicutes	Bacilli	Bacillales	Listeriaceae	Listeria	Listeria monocytogenes	75085.53086740233
+1423	0.24235115569128513	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus subtilis	100246.37439129887
+562	0.06877052508866043	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia coli	28446.308768198585
+28901	0.05423828972016106	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Salmonella	Salmonella enterica	22435.18039813714
+287	0.0047781029793193906	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas aeruginosa	1976.419294468652
+unmapped	0.0								2.0
+mapped_filtered	0.0								1.0
+mapped_unclassified	0.0								0.0

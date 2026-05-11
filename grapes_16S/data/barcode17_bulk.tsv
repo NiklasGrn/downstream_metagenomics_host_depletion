@@ -1,0 +1,18 @@
+tax_id	abundance	superkingdom	phylum	class	order	family	genus	species	estimated counts
+602692	0.9684582387080495	Bacteria	Pseudomonadota	Alphaproteobacteria	Rickettsiales	Mitochondria	Incertae_Sedis	Vitis_vinifera	19190.0
+174517	0.0020691395407519556	Bacteria	Pseudomonadota	Gammaproteobacteria	Lysobacterales	Lysobacteraceae	Stenotrophomonas	[Pseudomonas]_geniculata	41.0
+180801	0.01661321562140714	Bacteria	Pseudomonadota	Gammaproteobacteria	Rickettsiellales	Rickettsiellaceae	Rickettsiella	uncultured_bacterium	329.1908675381825
+1857507	0.0014539052466221228	Bacteria	Pseudomonadota	Gammaproteobacteria	Rickettsiellales	Rickettsiellaceae	Rickettsiella	uncultured_bacterium	28.809132461817363
+1207089	0.002383797972900161	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Oxalobacteraceae	Massilia	uncultured_bacterium	47.23495683301669
+1213920	0.0016536135392963963	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Oxalobacteraceae	Massilia	uncultured_bacterium	32.76635228115809
+1605792	0.001385905715759761	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Oxalobacteraceae	Massilia	uncultured_bacterium	27.461721757779664
+1821135	0.0006708800807758747	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Oxalobacteraceae	Massilia	uncultured_bacterium	13.293488800573957
+1209270	0.001930026763940026	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Oxalobacteraceae	Massilia	uncultured_bacterium	38.243480327471616
+237860	0.0006056018168054504	Bacteria	Pseudomonadota	Alphaproteobacteria	Rickettsiales	Mitochondria	Incertae_Sedis	Plasmopara_viticola	12.0
+191746	0.0009588695432752965	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Erwiniaceae	Incertae_Sedis	Pluralibacter_pyrinus	19.0
+567187	0.0006056018168054504	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Kluyvera	Kluyvera_intermedia	12.0
+221257	0.0006560686348725713	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Erwiniaceae	Erwinia	unidentified	13.0
+517120	0.0005551349987383295	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Hafniaceae	Hafnia-Obesumbacterium	Hafnia_paralvei	11.0
+unmapped	0.0								0.0
+mapped_filtered	0.0								0.0
+mapped_unclassified	0.0								579.0

@@ -1,0 +1,29 @@
+tax_id	abundance	superkingdom	phylum	class	order	family	genus	species	estimated counts
+602692	0.7404714142427282	Bacteria	Pseudomonadota	Alphaproteobacteria	Rickettsiales	Mitochondria	Incertae_Sedis	Vitis_vinifera	2953.0
+174517	0.017552657973921765	Bacteria	Pseudomonadota	Gammaproteobacteria	Lysobacterales	Lysobacteraceae	Stenotrophomonas	[Pseudomonas]_geniculata	70.0
+180801	0.10612479519985525	Bacteria	Pseudomonadota	Gammaproteobacteria	Rickettsiellales	Rickettsiellaceae	Rickettsiella	uncultured_bacterium	423.22568325702275
+1857507	0.0069644726035551765	Bacteria	Pseudomonadota	Gammaproteobacteria	Rickettsiellales	Rickettsiellaceae	Rickettsiella	uncultured_bacterium	27.774316742978044
+156208	0.008319305043240507	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus	Lactococcus_lactis	33.177388512443144
+1207089	0.014109837552404853	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Oxalobacteraceae	Massilia	uncultured_bacterium	56.27003215899055
+1595556	0.007175167448684619	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Oxalobacteraceae	Massilia	uncultured_bacterium	28.61456778535426
+1822442	0.008731848417140637	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus	Lactococcus_lactis	34.822611487556856
+517327	0.0062688064192577735	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Hafniaceae	Hafnia-Obesumbacterium	Hafnia_paralvei	25.0
+237860	0.004012036108324975	Bacteria	Pseudomonadota	Alphaproteobacteria	Rickettsiales	Mitochondria	Incertae_Sedis	Plasmopara_viticola	16.0
+361615	0.0033433634236041472	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Companilactobacillus	Lactobacillus_sp.	13.33333333333334
+359704	0.0033433634236041472	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Companilactobacillus	Lactobacillus_sp.	13.33333333333334
+360284	0.0033433634236041472	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Companilactobacillus	Lactobacillus_sp.	13.33333333333334
+1821135	0.009864047273864616	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Oxalobacteraceae	Massilia	uncultured_bacterium	39.33782052817209
+1209270	0.006281595315077615	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Oxalobacteraceae	Massilia	uncultured_bacterium	25.051002116529528
+1209359	0.00606631444157189	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Oxalobacteraceae	Massilia	uncultured_bacterium	24.192461992988697
+2210730	0.003761283851554664	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Cedecea	Cedecea_davisae	15.0
+951855	0.003180093385595102	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	uncultured_gamma	12.682212421753267
+950724	0.004091722060743915	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	uncultured_gamma	16.317787578246733
+1605792	0.012170038971405431	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Oxalobacteraceae	Massilia	uncultured_bacterium	48.53411541796486
+1597184	0.003009027081243731	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Xylophilus	uncultured_bacterium	12.0
+648694	0.0025075225677031092	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Erwiniaceae	Erwinia	Erwinia_tasmaniensis	10.0
+191746	0.008641185895959738	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Erwiniaceae	Incertae_Sedis	Pluralibacter_pyrinus	34.46104935308743
+201354	0.004397931456096432	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Erwiniaceae	Incertae_Sedis	Enterobacter_sp.	17.53895064691257
+221257	0.0062688064192577735	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Erwiniaceae	Erwinia	unidentified	25.0
+unmapped	0.0								0.0
+mapped_filtered	0.0								0.0
+mapped_unclassified	0.0								601.0

@@ -1,0 +1,20 @@
+tax_id	abundance	superkingdom	phylum	class	order	family	genus	species	estimated counts
+602692	0.9706648016474336	Bacteria	Pseudomonadota	Alphaproteobacteria	Rickettsiales	Mitochondria	Incertae_Sedis	Vitis_vinifera	24982.0
+180801	0.014843745389936004	Bacteria	Pseudomonadota	Gammaproteobacteria	Rickettsiellales	Rickettsiellaceae	Rickettsiella	uncultured_bacterium	382.03347510078294
+1857507	0.0012420454947824984	Bacteria	Pseudomonadota	Gammaproteobacteria	Rickettsiellales	Rickettsiellaceae	Rickettsiella	uncultured_bacterium	31.966524899217163
+648694	0.0006605276450246726	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Erwiniaceae	Erwinia	Erwinia_tasmaniensis	17.0
+1207089	0.0016319038725884317	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Oxalobacteraceae	Massilia	uncultured_bacterium	42.000309968808466
+360284	0.0018650192330108403	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Companilactobacillus	Lactobacillus_sp.	48.0
+950724	0.0004662548082527101	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	uncultured_gamma	12.0
+174517	0.0021758557718459803	Bacteria	Pseudomonadota	Gammaproteobacteria	Lysobacterales	Lysobacteraceae	Stenotrophomonas	[Pseudomonas]_geniculata	55.99999999999999
+1212980	0.0012445769620891744	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Oxalobacteraceae	Massilia	uncultured_bacterium	32.031677273289084
+1821135	0.0007764699218615697	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Oxalobacteraceae	Massilia	uncultured_bacterium	19.98400637895122
+1209270	0.0007764699218615697	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Oxalobacteraceae	Massilia	uncultured_bacterium	19.98400637895122
+237860	0.0005828185103158877	Bacteria	Pseudomonadota	Alphaproteobacteria	Rickettsiales	Mitochondria	Incertae_Sedis	Plasmopara_viticola	15.000000000000002
+517327	0.0006605276450246726	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Hafniaceae	Hafnia-Obesumbacterium	Hafnia_paralvei	17.0
+2210730	0.0005828185103158877	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Cedecea	Cedecea_davisae	15.000000000000002
+191746	0.0010490733185685977	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Erwiniaceae	Incertae_Sedis	Pluralibacter_pyrinus	27.0
+221257	0.0007770913470878502	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Erwiniaceae	Erwinia	unidentified	20.0
+unmapped	0.0								3.0
+mapped_filtered	0.0								0.0
+mapped_unclassified	0.0								652.0
